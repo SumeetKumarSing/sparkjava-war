@@ -10,4 +10,4 @@ pipeline {                                    // 1  // Defines the start of the 
             }                                 // 7  // Ends the steps block for 'build' stage
         }                                     // 6  // Ends the 'build' stage
     }                                         // 3  // Ends the stages block
-}                                             // 1  // Ends the pipeline block
+}                                             // 1  // Ends the pipeline block.
